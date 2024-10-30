@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+
+ .whatsapp-icon-right {
+    position: fixed;
+    bottom: 12%;
+    right: 20px;
+  }
+
+
+  .whatsapp-icon-left {
+    position: fixed;
+    bottom: 12%;
+    left: 20px;
+  }
+
+  .hs-click-to-chat-whatsapp-button{
+    width : 200px;
+  }
